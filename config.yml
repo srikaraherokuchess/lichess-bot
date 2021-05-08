@@ -1,4 +1,4 @@
-token: "yourtoken"           # lichess OAuth2 Token
+token: "7a7vhm2RLQZpWsTW"           # lichess OAuth2 Token
 url: "https://lichess.org/"  # lichess base URL
 
 engine:                      # engine settings
@@ -38,7 +38,7 @@ engine:                      # engine settings
 #     gaviota: "Gaviota path"
 #     nalimov: "Nalimov Path"
 #     scorpio: "Scorpio Path"
-#     syzygy: "Syzygy Path"
+      syzygy: "Syzygy Path"
   silence_stderr: false       # some engines (yes you, leela) are very noisy
 
 abort_time: 30                # time to abort a game in seconds when there is no activity
